@@ -1,0 +1,4 @@
+-Hi, I’m @MontyQI
+-I’m interested in C#, discord plugins.
+-I’m currently learning C#.
+-How to reach me- aroxus@protonmail.com
